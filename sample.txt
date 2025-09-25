@@ -1,1 +1,1 @@
-sample file updated from vs in branch2
+sample file updated from github
