@@ -1,1 +1,1 @@
-sample file updated from github  "error"
+sample file updated from gitlab  "error"
